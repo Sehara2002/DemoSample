@@ -1,0 +1,3 @@
+const mongi = () => {
+    return "mongi";
+}
