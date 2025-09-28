@@ -1,3 +1,4 @@
 const getName = () =>{
-    return "This is my Name";
+   console.log("Siyumi");
+   return true;
 }

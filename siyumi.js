@@ -1,3 +1,6 @@
-const getName = () =>{
-    return "Siyumi";
+const getName = (x,y) =>{
+    total=x+y;
+    console.log("Total"+total);
+    
+    
 }
