@@ -1,3 +1,3 @@
-const getname=() =>{
-    return "This is my name";
+const getname=(x,y) =>{
+    return x+y;
 }
