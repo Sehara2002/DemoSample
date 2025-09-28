@@ -1,3 +1,4 @@
 const getname=(x,y) =>{
-    return x+y;
+    substract=x-y;
+    console.log(substract);
 }
