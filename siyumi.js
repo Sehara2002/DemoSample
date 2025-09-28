@@ -1,6 +1,6 @@
 const getName = (x,y) =>{
     total=x+y;
-    return total;
+    console.log("Total"+total);
     
     
 }
