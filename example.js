@@ -1,4 +1,4 @@
 const getName = () =>{
-   console.log("this is my example file");
+   console.log("mongi");
    return true;
 }

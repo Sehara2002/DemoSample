@@ -1,5 +1,3 @@
 const mongi = (x,y) => {
-    return x+y;
+    console.log(x*y);
 }
-
-mongi(1,2);
