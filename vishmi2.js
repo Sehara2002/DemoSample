@@ -1,3 +1,4 @@
-const getname=() =>{
-    return "This is my name";
+const getname=(x,y) =>{
+    substract=x-y;
+    console.log(substract);
 }

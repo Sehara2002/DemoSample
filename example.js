@@ -1,4 +1,7 @@
 const getName = () =>{
    console.log("dhana");
-   return true;
+   console.log("Siyumi");
+   console.log("mongi");
+    console.log("vishmi");
+    return true;
 }
